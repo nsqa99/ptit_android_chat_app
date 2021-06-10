@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "111165842241",
+    "firebase_url": "https://nsqa-first-project.firebaseio.com",
+    "project_id": "nsqa-first-project",
+    "storage_bucket": "nsqa-first-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111165842241:android:9526163265698fbc0277c0",
+        "android_client_info": {
+          "package_name": "com.example.nguyensyquanganh_btl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111165842241-ls4mfrhfchqd0f1j6q0v80k7tc3uqelq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nguyensyquanganh_btl",
+            "certificate_hash": "72e1335792ef9043bf722259b29c7ef47c91e83b"
+          }
+        },
+        {
+          "client_id": "111165842241-54pdilht2e8gp5t7sk9pcbvnfiatu3e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARgR7fXtr35OnzfFSd2Cue53SWUkqD4fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111165842241-54pdilht2e8gp5t7sk9pcbvnfiatu3e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
